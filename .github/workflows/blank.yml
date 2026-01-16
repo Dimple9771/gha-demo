@@ -6,6 +6,6 @@ jobs:
     steps:
       - name: Hello Step
         run: |
-        echo "Wellcome to LL"
-        echo "wellcome to skv"
-        echo "wellcome to pos"
+          echo "Wellcome to LL"
+          echo "wellcome to skv"
+          echo "wellcome to pos"
